@@ -1,0 +1,18 @@
+/* Style.css */
+
+/* Making it look nice */
+.proportioned {
+    height: auto;
+    width: 500px;
+    
+}
+
+/* Fonts and size for the link */
+
+a {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+  
